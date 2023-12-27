@@ -1089,17 +1089,16 @@
     z-index: 99;
   }
   
-#eboard {
+  #eboard {
     @media screen and (max-width: 500px) {
-        .box {
-            width: 100%;
-        }
-        
-        .popup {
-            width: 90%;
-        }
+      .box{
+        width: 100%;
+      }
+       .popup{
+        width: 90%;
+      }
     }
-}
+  }
 
   
   /* Directors Section
